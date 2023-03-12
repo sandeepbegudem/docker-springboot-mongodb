@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "640cf02182cb92462e287630"
+  },
+  "tvShow": "Planet Earth II",
+  "year": 2016,
+  "rating": 9.399999618530273
+},{
+  "_id": {
+    "$oid": "640cf0a582cb92462e287631"
+  },
+  "tvShow": "Breaking Bad",
+  "year": 2008,
+  "rating": 9.399999618530273
+},{
+  "_id": {
+    "$oid": "640cfa0682cb92462e287632"
+  },
+  "tvShow": "Planet Earth",
+  "year": 2006,
+  "rating": 9.399999618530273
+},{
+  "_id": {
+    "$oid": "640cfa3982cb92462e287633"
+  },
+  "tvShow": "Band of Brothers",
+  "year": 2001,
+  "rating": 9.399999618530273
+},{
+  "_id": {
+    "$oid": "640cfa5882cb92462e287634"
+  },
+  "tvShow": "Chernobyl",
+  "year": 2019,
+  "rating": 9.300000190734863
+},{
+  "_id": {
+    "$oid": "640cfa6c82cb92462e287635"
+  },
+  "tvShow": "The Wire",
+  "year": 2002,
+  "rating": 9.300000190734863
+},{
+  "_id": {
+    "$oid": "640cfafa82cb92462e287636"
+  },
+  "tvShow": "Avatar: The Last Airbender",
+  "year": 2005,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfb2082cb92462e287637"
+  },
+  "tvShow": "Blue Planet II",
+  "year": 2017,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfb3982cb92462e287638"
+  },
+  "tvShow": "The Sopranos",
+  "year": 1999,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfb5582cb92462e287639"
+  },
+  "tvShow": "Cosmos: A Spacetime Odyssey",
+  "year": 2014,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfb7282cb92462e28763a"
+  },
+  "tvShow": "Cosmos",
+  "year": 1980,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfb8982cb92462e28763b"
+  },
+  "tvShow": "Our Planet",
+  "year": 2019,
+  "rating": 9.199999809265137
+},{
+  "_id": {
+    "$oid": "640cfba582cb92462e28763c"
+  },
+  "tvShow": "Game of Thrones",
+  "year": 2011,
+  "rating": 9.100000381469727
+},{
+  "_id": {
+    "$oid": "640cfbc782cb92462e28763d"
+  },
+  "tvShow": "The World at War",
+  "year": 1973,
+  "rating": 9.100000381469727
+},{
+  "_id": {
+    "$oid": "640cfbf782cb92462e28763e"
+  },
+  "tvShow": "Rick and Morty",
+  "year": 2013,
+  "rating": 9.100000381469727
+},{
+  "_id": {
+    "$oid": "640cfc2482cb92462e28763f"
+  },
+  "tvShow": "Fullmetal Alchemist: Brotherhood",
+  "year": 2009,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfc4882cb92462e287640"
+  },
+  "tvShow": "The Last Dance",
+  "year": 2020,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfc6e82cb92462e287641"
+  },
+  "tvShow": "Life",
+  "year": 2009,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfc8882cb92462e287642"
+  },
+  "tvShow": "The Twilight Zone",
+  "year": 1959,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfca182cb92462e287643"
+  },
+  "tvShow": "Sherlock",
+  "year": 2010,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfcb682cb92462e287644"
+  },
+  "tvShow": "The Vietnam War",
+  "year": 2017,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfccd82cb92462e287645"
+  },
+  "tvShow": "The Last of Us",
+  "year": 2023,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfcdf82cb92462e287646"
+  },
+  "tvShow": "Bluey",
+  "year": 2018,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfcf882cb92462e287647"
+  },
+  "tvShow": "Batman: The Animated Series",
+  "year": 1992,
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "640cfd2282cb92462e287648"
+  },
+  "tvShow": "Scam 1992: The Harshad Mehta Story",
+  "year": 2020,
+  "rating": 8.899999618530273
+}]
