@@ -1,0 +1,5 @@
+com/codin9ninja/top25ratedtvshows/repository/TvShowRepository.class
+com/codin9ninja/top25ratedtvshows/controller/TvShowController.class
+com/codin9ninja/top25ratedtvshows/service/TvShowService.class
+com/codin9ninja/top25ratedtvshows/Top25RatedTvShowsApplication.class
+com/codin9ninja/top25ratedtvshows/entity/TvShow.class

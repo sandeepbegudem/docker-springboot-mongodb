@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codin9ninja.top25ratedtvshows.Top25RatedTvShowsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.364 s - in com.codin9ninja.top25ratedtvshows.Top25RatedTvShowsApplicationTests
